@@ -11,9 +11,8 @@
 * Dash
 
 ####2.Happy Commend Line
-* iTerm2
-* Oh-My-Zsh
-* Autojump
+* iTerm2 & 插件
+* Zsh & Oh-My-Zsh
 * cdto
 
 ####3.Happy Developing
