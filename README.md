@@ -16,7 +16,6 @@
 * Zsh & Oh-My-Zsh
 * cdto
 
-
 ####3.Happy Developing
 * 插件机制和插件失效（Xcode）
 * 推荐的一些插件（Xcode）
