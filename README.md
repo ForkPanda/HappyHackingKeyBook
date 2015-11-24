@@ -20,7 +20,7 @@
 * 插件机制和插件失效（Xcode）
 * 推荐的一些插件（Xcode）
 * Storyboard + Autolayout 快速业务迭代（iOS）
-* storyboard 的组织策略（iOS）
+* Storyboard 的组织策略（iOS）
 * 使用模板帮助团队整理代码（iOS）
 * 推荐第三方库（iOS）
 * 文本编辑工具 sublime & Atom
