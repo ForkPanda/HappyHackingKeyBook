@@ -16,13 +16,16 @@
 * Autojump
 * cdto
 
-####Happy Xcode
-* 插件机制和插件失效
-* 推荐的一些插件
-* Storyboard + Autolayout 快速业务迭代
-* storyboard 的组织策略
-* 使用模板帮助团队整理代码
-* 推荐第三方库
+####Happy Developing
+* 插件机制和插件失效（Xcode）
+* 推荐的一些插件（Xcode）
+* Storyboard + Autolayout 快速业务迭代（iOS）
+* storyboard 的组织策略（iOS）
+* 使用模板帮助团队整理代码（iOS）
+* 推荐第三方库（iOS）
+* 文本编辑工具 sublime & Atom
+* 文本编辑工具 Vim & Emacs
+* Git & Github
 
 ####Happy Workflow
 * 如何中毒
@@ -36,17 +39,17 @@
 * LLDB & extension
 * dSYM
 
-####Happy Developing
-* sublime & Atom
-* Vim & Emacs
+####Happy Hardware
+* HHKB  
+* Embody
+* Mbpr
+* Envelop
 
 ####Happy Writing
-* Markdown
-* Gitbook
-* 
+* Markdown & Gitbook
 
 ####Happy Slap
-
+* 精益画布
 
 
 2. Xcode 推荐插件 & 升级插件失效分析
