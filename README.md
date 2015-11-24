@@ -18,8 +18,9 @@
 * Markdown & Macdown
 
 ####Happy Developing
-* Xcode：插件机制和插件失效
+* Xcode：插件机制和插件失效解决办法
 * Xcode：推荐的一些插件
+* Xcode：Tips
  
 * iOS：Storyboard + Autolayout 快速业务迭代
 * iOS：Storyboard 的组织策略
