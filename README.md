@@ -1,7 +1,7 @@
 # HappyHackingKeyBook
 欢乐码农
 
-####Happy Tools
+####1.Happy Tools
 * Bartender
 * Moom
 * Karabiner
@@ -10,13 +10,13 @@
 * 鱼摆摆
 * Dash
 
-####Happy Commend Line
+####2.Happy Commend Line
 * iTerm2
 * Oh-My-Zsh
 * Autojump
 * cdto
 
-####Happy Developing
+####3.Happy Developing
 * 插件机制和插件失效（Xcode）
 * 推荐的一些插件（Xcode）
 * Storyboard + Autolayout 快速业务迭代（iOS）
@@ -27,28 +27,28 @@
 * 文本编辑工具 Vim & Emacs
 * Git & Github
 
-####Happy Workflow
+####4.Happy Workflow
 * 如何中毒
 * Workflow整理
 * Workflow收集
 
-####Happy Debugging
+####5.Happy Debugging
 * Http & Socket
 * Xcode工具
 * Logging
 * LLDB & extension
 * dSYM
 
-####Happy Hardware
+####6.Happy Hardware
 * HHKB  
 * Embody
 * Mbpr
 * Envelop
 
-####Happy Writing
+####7.Happy Writing
 * Markdown & Gitbook
 
-####Happy Slap
+####8.Happy Slap
 * 精益画布
 
 
