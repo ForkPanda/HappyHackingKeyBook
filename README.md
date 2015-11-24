@@ -15,6 +15,7 @@
 * iTerm2 & 插件
 * Zsh & Oh-My-Zsh
 * cdto
+* Markdown & Macdown
 
 ####Happy Developing
 * Xcode：插件机制和插件失效
@@ -51,7 +52,7 @@
 * Envelop
 
 ####Happy Writing
-* Markdown & Gitbook
+* Markdown
 
 ####Happy Slap
 * 精益画布
