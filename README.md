@@ -1,9 +1,9 @@
 # HappyHackingKeyBook
 欢乐码农
 
-1. iTerm2 + Zsh + Oh-My-Zsh
+1. iTerm2 + Zsh + Oh-My-Zsh + Autojump
 2. Xcode 推荐插件 & 升级插件失效分析
-3. cdto 与 Autojump
+3. cdto 实现与使用，顺手改一下图标
 4. Alred 与 Workflow 编程
 5. Markdown & Markdown编辑器
 6. 那些做网络调试的日子
