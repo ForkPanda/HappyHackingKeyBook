@@ -9,11 +9,13 @@
 * Manico
 * 鱼摆摆
 * Dash
-
-####2.Happy Commend Line
+* Alfred：如何中毒
+* Alfred：Workflow编程
+* Alfred：Workflow收集
 * iTerm2 & 插件
 * Zsh & Oh-My-Zsh
 * cdto
+
 
 ####3.Happy Developing
 * 插件机制和插件失效（Xcode）
@@ -26,17 +28,8 @@
 * 文本编辑工具 Vim & Emacs
 * Git & Github
 
-####4.Happy Glance
-* ObjC
-* Swift
-* Python
-* Node
-* Go
-
 ####4.Happy Workflow
-* 如何中毒
-* Workflow整理
-* Workflow收集
+
 
 ####5.Happy Debugging
 * Http & Socket
