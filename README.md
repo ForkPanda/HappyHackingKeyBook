@@ -38,7 +38,7 @@
 
 ####Happy Debugging
 * Http & Socket
-* Xcode工具
+* Xcode
 * Logging
 * LLDB & extension
 * dSYM
