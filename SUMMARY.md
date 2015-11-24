@@ -1,4 +1,3 @@
 # Summary
 
-* [CommondLineTools](commondlinetools.md)
 
