@@ -1,7 +1,28 @@
 # HappyHackingKeyBook
 欢乐码农
 
-1. iTerm2 + Zsh + Oh-My-Zsh + Autojump
+####Happy Commend Line
+* iTerm2
+* Zsh
+* Oh-My-Zsh
+* Autojump
+* cdto
+
+####Happy Xcode
+* 
+
+####Happy Workflow
+
+####Happy Debugging
+
+####Happy Developing
+
+####Happy Writing
+
+####Happy Slap
+
+
+
 2. Xcode 推荐插件 & 升级插件失效分析
 3. cdto 实现与使用，顺手改一下图标
 4. Alred 与 Workflow 编程
