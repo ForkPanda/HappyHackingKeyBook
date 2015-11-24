@@ -26,6 +26,13 @@
 * 文本编辑工具 Vim & Emacs
 * Git & Github
 
+####4.Happy Glance
+* Objective-C
+* Swift
+* Python
+* Node
+* Go
+
 ####4.Happy Workflow
 * 如何中毒
 * Workflow整理
