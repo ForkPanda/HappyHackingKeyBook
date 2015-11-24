@@ -1,7 +1,7 @@
 # HappyHackingKeyBook
 欢乐码农
 
-####1.Happy Tools
+####Happy Tools
 * Bartender
 * Moom
 * Karabiner
@@ -16,7 +16,7 @@
 * Zsh & Oh-My-Zsh
 * cdto
 
-####3.Happy Developing
+####Happy Developing
 * Xcode：插件机制和插件失效
 * Xcode：推荐的一些插件
  
@@ -34,26 +34,26 @@
 * Macaron
 * Express
 
-####4.Happy Workflow
+####Happy Workflow
 
 
-####5.Happy Debugging
+####Happy Debugging
 * Http & Socket
 * Xcode工具
 * Logging
 * LLDB & extension
 * dSYM
 
-####6.Happy Hardware
+####Happy Hardware
 * HHKB  
 * Embody
 * Mbpr
 * Envelop
 
-####7.Happy Writing
+####Happy Writing
 * Markdown & Gitbook
 
-####8.Happy Slap
+####Happy Slap
 * 精益画布
 
 
