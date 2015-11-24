@@ -27,7 +27,7 @@
 * Git & Github
 
 ####4.Happy Glance
-* Objective-C
+* ObjC
 * Swift
 * Python
 * Node
