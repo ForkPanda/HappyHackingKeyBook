@@ -47,6 +47,7 @@
 <img src="../img/moom.png" width = "50" height = "50" alt="图片名称" align=center />
 
 ####功能
+* 快速分屏与窗口
 
 ###Bartender 
 ###Dash 
