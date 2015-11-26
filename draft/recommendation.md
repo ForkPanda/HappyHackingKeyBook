@@ -47,8 +47,20 @@
 <img src="../img/moom.png" width = "50" height = "50" alt="图片名称" align=center />
 
 ####功能
-* 快速分屏与窗口
+* 快速分屏与窗口停靠
+
+####评价
+依赖性强，价格便宜。
 
 ###Bartender 
+<img src="../img/bartender.png" width = "50" height = "50" alt="图片名称" align=center />
+
+####功能
+* 收纳右上角状态栏图标
+
+####评价
+十分棒的处女座治愈
+
+
 ###Dash 
 ###Karabiner
