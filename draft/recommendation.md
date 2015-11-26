@@ -11,20 +11,33 @@
 * 打开浏览器跳转网站并填写对应的账号密码
 
 ####评价：
-**客服：**只使用过Email与客服沟通，他们会及时处理你的问题并跟进反馈情况。果然歪果仁把Email当做即时通讯来用的。反馈速度很快，解答很赞。
+**客服：**只使用过 Email 与客服沟通，他们会及时处理你的问题并跟进反馈情况。反馈速度很快，服务很赞。『果然歪果仁把 Email 当做即时通讯来用的』
 
-**技术：**RSA加密数据，云端存放iCloud（Dropbox、本地）。
+**技术：**数据加密，云端存放 iCloud（或Dropbox、本地）。
 
-**依赖：**重度依赖，我Github的密码是50位数字加大小写字母。
+**依赖：** **重度依赖**，我 Github 的密码是50位数字加大小写字母。
 
 **支持平台：**Mac、Windows、iOS、Android。
+
 **插件：**Alfred、各种浏览器。
 
-
-
 ###Manico 
+<img src="../img/manico.png" width = "50" height = "50" alt="图片名称" align=center />
 
-###鱼摆摆 
+####功能：
+* 使用组合键快速打开/隐藏应用
+* 快速切换应用
+* Alfred 的轻度替代品
+
+####评价：
+提到 Manico 就不得不提 Alfred 。目前看来， Manico 对常用软件的切换操作是要显著超越 Alfred 『默认』的打开方式的。然而，Alfred 的工作流简直太 IMBA，所以如果你买了 Alfred 的 Powerpackage ，请无情无视 Manico。
+
+**如果你不是一个程序员**，不喜欢使用 Alfred 来改善效率，『比如和我合租的设计师妹子』。那么 Manico 将是一个不错的替代品。『然而，同性交友网站 Github 里，真的能有非程序员看到我的这个鬼东西么？』
+
+###鱼摆摆
+<img src="../ybb.jpeg" width = "50" height = "50" alt="图片名称" align=center />
+
+####功能
 
 ###Moom 
 ###Bartender 
