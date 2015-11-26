@@ -35,7 +35,7 @@
 **如果你不是一个程序员**，不喜欢使用 Alfred 来改善效率，『比如和我合租的设计师妹子』。那么 Manico 将是一个不错的替代品。『然而，同性交友网站 Github 里，真的能有非程序员看到我的这个鬼东西么？』
 
 ###鱼摆摆
-<img src="../ybb.jpeg" width = "50" height = "50" alt="图片名称" align=center />
+<img src="../img/ybb.jpeg" width = "50" height = "50" alt="图片名称" align=center />
 
 ####功能
 * 翻墙
