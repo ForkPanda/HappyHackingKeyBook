@@ -61,7 +61,7 @@ iCloud（或Dropbox、本地）。安全上比某免费得还是好太多。**�
 
 ---
 ###Dash 
-<img src="../img/dash.png" width = "50" height = "50" alt="图片名称" align=center />
+<img src="../img/dash.png" width = "50" height = "50" alt="Dash" align=center />
 
 ####功能
 * 文档查询
