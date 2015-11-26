@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 
 ###推荐
-* [推荐应用：1Password Manico 鱼摆摆 Moom Bartender Dash Karabiner](publish/recommendation.md)
+* [推荐应用：1Password Manico 鱼摆摆 Moom Bartender Dash](publish/recommendation.md)
 * Alfred：如何中毒 Workflow收集
 * Alfred：Workflow编程
 * 推荐命令行组合：iTerm2 & 插件 & Zsh & Oh-My-Zsh
