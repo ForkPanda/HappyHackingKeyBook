@@ -38,7 +38,7 @@
 <img src="../img/ybb.jpeg" width = "50" height = "50" alt="图片名称" align=center />
 
 ####功能
-* 翻墙
+* 翻墙 Google
 
 ####评价
 用来代替死去的 [曲径](http://getqujing.com) 。便宜，简单。
