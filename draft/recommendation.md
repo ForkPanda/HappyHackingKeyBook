@@ -1,7 +1,8 @@
 # 推荐应用：1Password Manico 鱼摆摆 Moom Bartender Dash Karabiner
 
+首先先推荐一个 团购应用的网站，[谋点利](http://mou.li)，源于V2EX。利益无关，只是买的便宜。
 
-###1Password（￥）
+###1Password（￥328）
 <img src="../img/1password.png" width = "50" height = "50" alt="1P" align=center />
 
 ####功能：
@@ -40,7 +41,7 @@ iCloud（或Dropbox、本地）。安全上比某免费得还是好太多。**�
 用来代替死去的 [曲径](http://getqujing.com) 。便宜，简单。
 
 ---
-###Moom（￥）
+###Moom（￥68）
 <img src="../img/moom.png" width = "50" height = "50" alt="Moom" align=center />
 
 ####功能
@@ -50,7 +51,7 @@ iCloud（或Dropbox、本地）。安全上比某免费得还是好太多。**�
 依赖性强，价格便宜。
 
 ---
-###Bartender （￥）
+###Bartender （￥55）
 <img src="../img/bartender.png" width = "50" height = "50" alt="Bartender" align=center />
 
 ####功能
@@ -60,7 +61,7 @@ iCloud（或Dropbox、本地）。安全上比某免费得还是好太多。**�
 十分棒的处女座治愈工具，可以让右上角的图标收起来。整洁的同时去除掉干扰项。『那些不想回的信息，总算有正当理由了。』
 
 ---
-###Dash（￥）
+###Dash（￥163）
 <img src="../img/dash.png" width = "50" height = "50" alt="Dash" align=center />
 
 ####功能
