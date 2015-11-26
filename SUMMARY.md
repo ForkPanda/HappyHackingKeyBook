@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [推荐应用1：1Password Manico 鱼摆摆 Moom](tui_jian_ying_yong_1__1password_manico_yu_bai_bai_.md)
+* 推荐应用1：1Password Manico 鱼摆摆 Moom
 * 推荐应用2：Bartender Dash Karabiner
 * Alfred：如何中毒 Workflow收集
 * Alfred：Workflow编程
