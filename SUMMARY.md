@@ -1,12 +1,20 @@
 # Summary
 
 * [Introduction](README.md)
+
+###推荐
 * [推荐应用：1Password Manico 鱼摆摆 Moom Bartender Dash Karabiner](draft/recommendation.md)
 * Alfred：如何中毒 Workflow收集
 * Alfred：Workflow编程
 * 推荐命令行组合：iTerm2 & 插件 & Zsh & Oh-My-Zsh
 * cdto 及原理分析，顺手改个图标
 * Markdown & Macdown
+
+###设计
+* OOD
+* 常用模式
+
+###开发
 * Xcode：插件机制和插件失效解决办法
 * Xcode：推荐的一些插件
 * Xcode：Tips
@@ -20,8 +28,7 @@
 * Flask
 * Macaron
 * Express
-* OOD
-* 常用模式
+
 * Http & Socket
 * Xcode
 * Logging
