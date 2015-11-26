@@ -31,7 +31,7 @@ iCloud（或Dropbox、本地）。安全上比某免费得还是好太多。**�
 
 ---
 ###鱼摆摆
-<img src="../img/ybb.jpeg" width = "50" height = "50" alt="图片名称" align=center />
+<img src="../img/ybb.jpeg" width = "50" height = "50" alt="ybb" align=center />
 
 ####功能
 * 翻墙 Google
@@ -41,7 +41,7 @@ iCloud（或Dropbox、本地）。安全上比某免费得还是好太多。**�
 
 ---
 ###Moom 
-<img src="../img/moom.png" width = "50" height = "50" alt="图片名称" align=center />
+<img src="../img/moom.png" width = "50" height = "50" alt="Moom" align=center />
 
 ####功能
 * 快速分屏与窗口停靠
@@ -51,7 +51,7 @@ iCloud（或Dropbox、本地）。安全上比某免费得还是好太多。**�
 
 ---
 ###Bartender 
-<img src="../img/bartender.png" width = "50" height = "50" alt="图片名称" align=center />
+<img src="../img/bartender.png" width = "50" height = "50" alt="Bartender" align=center />
 
 ####功能
 * 收纳右上角状态栏图标
