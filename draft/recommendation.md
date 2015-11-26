@@ -65,4 +65,12 @@
 ###Dash 
 <img src="../img/dash.png" width = "50" height = "50" alt="图片名称" align=center />
 
+####功能
+* 文档查询
+* 文档导入
+
+####评价
+做iOS的时候其实感觉不到，因为Xcode自带了文档工具，查询也很方便。但是当后来开始用 Sublime 写 Python 、 Node 、 Go 之后，才知道了 Dash 的价值。
+曾今第三方 Alfred 的 Workflow 完美跳过 Dash 的非注册等待，我却没有好好珍惜。现在 Dash 官方出了 Workflow ，我只好买买买了。
+
 ###Karabiner
