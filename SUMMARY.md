@@ -1,14 +1,13 @@
 # 这里是坑s
 
 ####Happy Tools
-* 效率：Karabiner 1Password Manico 鱼摆摆 Moom 
-* 整洁：Bartender 
-* Dash
+* 推荐应用1：1Password Manico 鱼摆摆 Moom 
+* 推荐应用2：Bartender Dash Karabiner
 * Alfred：如何中毒
 * Alfred：Workflow编程
 * Alfred：Workflow收集
 * 推荐命令行组合：iTerm2 & 插件 & Zsh & Oh-My-Zsh
-* cdto 及原理分析，顺手改个
+* cdto 及原理分析，顺手改个图标
 * Markdown & Macdown
 
 ####Happy Developing
