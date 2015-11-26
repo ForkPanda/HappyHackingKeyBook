@@ -2,7 +2,7 @@
 
 
 ###1Password
-<img src="../img/1password.png" width = "50" height = "50" alt="图片名称" align=center />
+<img src="../img/1password.png" width = "50" height = "50" alt="1P" align=center />
 
 ####功能：
 * 生成推荐账号密码
@@ -17,7 +17,7 @@ iCloud（或Dropbox、本地）。安全上比某免费得还是好太多。**�
 
 ---
 ###Manico 
-<img src="../img/manico.png" width = "50" height = "50" alt="图片名称" align=center />
+<img src="../img/manico.png" width = "50" height = "50" alt="Manico" align=center />
 
 ####功能：
 * 使用组合键快速打开/隐藏应用
