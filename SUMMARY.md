@@ -1,6 +1,6 @@
 # 这里是坑s
 
-####Happy Tools
+####软逼格
 * 推荐应用1：1Password Manico 鱼摆摆 Moom 
 * 推荐应用2：Bartender Dash Karabiner
 * Alfred：如何中毒 Workflow收集
@@ -9,7 +9,7 @@
 * cdto 及原理分析，顺手改个图标
 * Markdown & Macdown
 
-####Happy Developing
+####吃饭
 * Xcode：插件机制和插件失效解决办法
 * Xcode：推荐的一些插件
 * Xcode：Tips
@@ -32,21 +32,23 @@
 * Macaron
 * Express
 
-####Happy Debugging
+####设计与解读
+* OOD
+* 常用模式
+
+####测试
 * Http & Socket
 * Xcode
 * Logging
 * LLDB & extension
 * dSYM
+* 设计一个单元测试工具
 
-####Happy Hardware
+####硬逼格
 * HHKB  
 * Embody
-* Mbpr
 * Envelop
 
-####Happy Writing
-* Markdown
 
-####Happy Slap
+####冷水
 * 精益画布
