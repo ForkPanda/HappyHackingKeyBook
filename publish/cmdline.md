@@ -9,6 +9,7 @@
 `curl -s 我还没有写这个脚本你敢信？| sh`
 
 该脚本完成以下功能:
+
 * 检查环境
 * 安装Homebrew
 * 安装Homebrew-Cask
@@ -17,7 +18,7 @@
 * 安装Zsh
 * 安装Oh-My-Zsh
 * 安装Autojump
-* Oh-My-Zsh常用个人
+* Oh-My-Zsh常用个人配置
 
 ##0x0 安装 [Homebrew](http://brew.sh/index_zh-cn.html)
 
