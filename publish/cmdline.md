@@ -5,19 +5,80 @@
 **另外，假设你是 Mac 用户。**
 
 
-##0x0 安装所需工具
-
-###[Homebrew](http://brew.sh/index_zh-cn.html)
+##0x0 安装 [Homebrew](http://brew.sh/index_zh-cn.html)
 
 > "Google:90% of our engineers use the software you wrote(Homebrew),but you can't invert a binary tree on a whiteboard so fuck off. --Max Howell"
- 
-####安装方式
+
+#####依赖
+
+* Xcode Commend Line
+
+#####安装
+
+命令行输入：
 
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-天朝网络
+ps:各种卡顿见怪不怪，多试几次吧。
 
-## 
+#####其他命令
+
+* 帮助 `brew -help`
+* 更新brew `brew update`
+* 自检查 `brew doctor`
+* 安装 `brew install PACKAGE_NAME`
+* 卸载 `brew uninstall PACKAGE_NAME`
+* 搜索 `brew search PACKAGE_NAME`
+* 已安装列表 `brew list`
+* 检查包更新 `brew outdated`
+* 更新具体包 `brew upgrade [PACKAGE_NAME]`
+* 打开主业 `brew home PACKAGE_NAME`
+* 包信息 `brew info PACKAGE_NAME`
+* 包依赖 `brew deps PACKAGE_NAME`
 
 
-https://www.iterm2.com/
+## 0x1 安装 [Homebrew-cask](https://github.com/caskroom/homebrew-cask)
+
+> “To install, drag this icon…” no more!
+
+##### 依赖
+
+* Homebrew 最低版本 0.9.5 `$ brew --version` 
+
+##### 安装
+
+命令行输入：
+
+`brew tap caskroom/cask && brew install caskroom/cask/brew-cask`
+
+##0x2 安装 [iTerm2](https://www.iterm2.com/)
+
+##### 依赖
+
+* Homebrew-Cask
+
+命令行运行：
+
+`brew cask install iterm2`
+
+##0x3 安装 [Zsh]()
+
+#####依赖
+
+* Homebrew
+
+#####安装
+
+`brew install zsh zsh-completions`
+
+## 0x4 安装 [Oh-My-Zsh]()
+
+#####安装
+
+`sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+## 0x5 安装插件
+
+插件包含
+* Autojump
+* 
