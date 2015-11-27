@@ -7,13 +7,17 @@
 
 ##0x0 安装所需工具
 
-###[Homebrew](http://brew.sh/)
+###[Homebrew](http://brew.sh/index_zh-cn.html)
 
 > "Google:90% of our engineers use the software you wrote(Homebrew),but you can't invert a binary tree on a whiteboard so fuck off. --Max Howell"
  
 ####安装方式
 
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
- 
+
+天朝网络
+
+## 
+
 
 https://www.iterm2.com/
