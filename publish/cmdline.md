@@ -66,12 +66,13 @@ ps:各种卡顿见怪不怪，多试几次吧。
 #####依赖
 
 * Homebrew
+* Git
 
 #####安装
 
 `brew install zsh zsh-completions`
 
-## 0x4 安装 [Oh-My-Zsh]()
+## 0x4 安装 [Oh-My-Zsh](http://ohmyz.sh/)
 
 #####安装
 
