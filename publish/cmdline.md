@@ -4,6 +4,9 @@
 
 **另外，假设你是 Mac 用户。**
 
+##0xFF  一键安装下面的东西
+
+`curl -s 我还没有写这个脚本你敢信？| sh`
 
 ##0x0 安装 [Homebrew](http://brew.sh/index_zh-cn.html)
 
@@ -70,16 +73,23 @@ ps:各种卡顿见怪不怪，多试几次吧。
 
 #####安装
 
+命令行运行：
+
 `brew install zsh zsh-completions`
 
 ## 0x4 安装 [Oh-My-Zsh](http://ohmyz.sh/)
 
 #####安装
 
+命令行运行：
+
 `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
 ## 0x5 [安装插件](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
 
-插件包含
-* Autojump
-* 
+#####插件包含 以 Autojump 为例子
+
+命令行运行：
+
+`brew autojump` 
+
