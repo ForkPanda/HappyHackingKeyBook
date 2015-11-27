@@ -78,7 +78,7 @@ ps:各种卡顿见怪不怪，多试几次吧。
 
 `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
-## 0x5 安装插件
+## 0x5 [安装插件](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
 
 插件包含
 * Autojump
