@@ -12,6 +12,9 @@
  "Google:90% of our engineers use the software you wrote(Homebrew),but you can't invert a binary tree on a whiteboard so fuck off.  --Max Howell"
  
  
+####安装方式
+
+`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
  
 
 https://www.iterm2.com/
